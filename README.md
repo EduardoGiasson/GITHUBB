@@ -16,7 +16,7 @@
 ##### git merge [nome-da-branch] - Mescla a branch especificada na branch atual
 ##### git remote add origin [url] - Adiciona um repositório remoto chamado "origin" com a URL especificada
 ##### git fetch - Baixa os dados do repositório remoto, mas não faz merge
-##### git log - Mostra o histórico de commits do repositório
+##### git log - Acessa o histórico de commits do repositório
 ##### git diff - Mostra as diferenças entre os arquivos modificados e o último commit
 ##### git reset [arquivo] - Remove um arquivo do staging area
 ##### git rm [arquivo] - Remove um arquivo do diretório e do staging area
